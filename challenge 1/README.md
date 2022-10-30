@@ -8,7 +8,8 @@ pip3 install requirements.txt
 ```
 
 ## Running the App:
-Make sure you first install Flask and the rest of the requiremnts 
+Make sure you first install Flask and the rest of the requiremnts   
+
 **bids.py:** is the main Flask application server so to make sure everything is in order
 ```
 set FLASK_APP=hello.py
