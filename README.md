@@ -1,2 +1,2 @@
-# Technical Assesment
-Solution to the technical assessment required.
+# Pet Store Technical Assesment
+Solution to the Pet Store Back-End technical assessment required.
