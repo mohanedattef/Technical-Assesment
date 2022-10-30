@@ -1,5 +1,5 @@
 # Bidding Api:
-This is the requested bidding api with two endpoints, one to bid a new bid and one to list all bids  
+This is the requested bidding api with two endpoints, one to bid a new bid and one to list all bids.  
 
 ## requirements:
 
