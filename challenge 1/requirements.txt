@@ -1,6 +1,8 @@
 Flask==2.2.2
 Flask-SQLAlchemy==3.0.2
 flask-swagger-ui==4.11.1
+SQLAlchemy==1.4.42
+swagger-ui-bundle==0.0.9
 requests==2.25.1
 requests-oauthlib==1.3.0
 requests-toolbelt==0.9.1
