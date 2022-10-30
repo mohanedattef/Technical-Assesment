@@ -3,7 +3,7 @@ from modules import model as m
 from controllers import apiendpoints
 from flask_swagger_ui import get_swaggerui_blueprint
 
-#initiating flask app, sqlalchemy db from the modules and creating the table 
+#instantiate flask app, sqlalchemy db from the modules and creating the table 
 app= Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data.db'
 db=m.db
