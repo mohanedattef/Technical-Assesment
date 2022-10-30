@@ -8,7 +8,7 @@ pip3 install requirements.txt
 ```
 
 ## Running the App:
-after installing the requirments just run the **auction.py:** script after modifying the json to your need 
+after installing the requirments just run the **auction.py** script after modifying the json to your need 
 ```
 python3 auction.py
 ```
