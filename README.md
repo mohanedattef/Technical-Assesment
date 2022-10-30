@@ -1,2 +1,2 @@
-# Camlist
-Solution to the technical assessment by Camlist.
+# Technical-Assesment
+Solution to the technical assessment required.
